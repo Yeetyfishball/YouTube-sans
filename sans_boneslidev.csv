@@ -2,6 +2,24 @@
 0,HeartTeleport,320,304,,,,,
 0,HeartMode,0,,,,,,
 0,TLPause,,,,,,,
-0.2,BoneHRepeat,130,-10,200,1,300,7,183
-0,BoneHRepeat,330,650,200,3,300,7,183
+0,SansText,the illegal in my yard,,,,,,,
+0,SansText,im pretty anthropophobic,,,,,
+0,SansText,sounds pretty dusty aint         it?,,,,,,
+0,SansText,WHAHAHAHAHAHAHAHAHAHAHAHA        HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH,,,,,,,
+0.2,BoneHRepeat,130,-10,200,1,175,18,183
+0,BoneHRepeat,330,650,200,3,170,18,183
+0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+1,GasterBlaster,1,640,0,450,300,180,0.4,0.33333
+1.4,GasterBlaster,1,640,0,450,300,180,0.4,0.33333
+1,BoneStab,1,50,1.5,5,,,,
+1.4,GasterBlaster,1,640,0,450,300,180,0.4,0.33333
+1.4,GasterBlaster,1,640,0,450,300,180,0.4,0.33333
+1,BoneStab,0,50,1.5,4,,,,
+0,GasterBlaster,1,320,0,320,126,90,0.4,0.2,,,,
+0,GasterBlaster,1,320,480,320,491,270,0.4,0.2,,,,
+0,GasterBlaster,1,0,0,189,246,0,0.4,0.2,,,,
+0,GasterBlaster,1,640,480,449,366,180,0.4,0.2,,,,
 5.76666,EndAttack,,,,,,,

@@ -1,5 +1,143 @@
-0,CombatZoneResize,133,251,508,391,TLResume
-0,HeartTeleport,320,376,,,
-0,HeartMode,1,,,,
-0,TLPause,,,,,
-0.3,EndAttack,,,,,
+0,SansHead,ClosedEyes
+0,CombatZoneResize,241,226,406,391,TLResume,,,
+0,HeartTeleport,323,308,,,,,,
+0,HeartMode,0
+2,SansHead,Tired1
+0,SansText,huh?,
+0,SansHead,LookLeft
+0,SansText,looks like its time          for PHASE 2!,
+0,SansHead,Wink
+1,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+1.06666,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
+0,SansHead,NoEyes
+0,SansText,and it's not as easy      as your's.,,,
+0.5,gasterblaster,2,0,0,60,60,56,5,2
+0.1,gasterblaster,2,0,0,50,150,58,4.9,2
+0.1,gasterblaster,2,0,0,150,50,51,4.8,2
+0.5,gasterblaster,2,640,0,580,60,140,4.3,2
+0,bonestab,1,92.5,5,3
+0.3,SansTorso,Shrug
+4.25,PlayerHeal,-100,1,,,
+1,SansSweat,1
+0,SansTorso,Default
+2,SansText,...,,
+0,SansText,you...,,
+0,SansText,i forgot my dunking attack,,
+0,SansText,so dont spare me,,
+0,SansHead,ClosedEyes
+0,SansSweat,0
+0,SansText,im actually real tired,,
+2,SansHead,NoEyes
+0,SansText,i might...,,
+0,SansText,not have the energy for         phase 2,,
+0,SansText,heh.,,,,,
+0,SansHead,ClosedEyes
+3,SansHead,Default
+0,DamagePlayer,5,1,,,
+0,SansText,hehe.,,,
+0,SansText,i used hacks to damage you,,
+0,DamagePlayer,-70,1,,,
+0,SansText,who healed you?,,,,,,
+1.5,bonestab,1,140,0.5,2
+2,SansHead,BlueEye
+2,SansText,you bum.,,,,,
+0,DamagePlayer,-10,1,,,
+2.5,SansHead,NoEyes
+2.5,SansHead,LookLeft
+0,SansText,come on man...,,,,,
+0,SansHead,Default
+0,SansText,ok fine...,,
+0,SansHead,NoEyes
+0,SansText,you are not going to        have your turn ever,,
+0,SansHead,Default
+0,SansText,...,,
+0,SansText,so get outta here,,,
+0,SansHead,Default
+1,SansHead,Wink
+0,SansText,or don't,,
+0,SansText,until i find my         dunking donut attack,,
+0,SansText,capiche?,,
+0,SansHead,Default
+20,SansHead,LookLeft
+0,SansText,phase 2 is cancelled.        you nut!,,
+0,SansText,why are you still here eh?,,
+0,DamagePlayer,-21,1,,,
+0,SansHead,Default
+2,SansText,you really want to         see my basketball        attack?,,
+0,combatzoneresize,133,251,508,391,TLResume
+0,HeartTeleport,320,376,,,,
+0,HeartMode,1,,,,,
+0.2,bonevrepeat,128,250,20,0,150,8,300
+0,bonevrepeat,128,370,20,0,150,8,300
+0,bonevrepeat,503,250,20,2,150,8,300
+0,bonevrepeat,503,370,20,2,150,8,300
+1,bonevrepeat,128,250,40,0,150,7,300
+0,bonevrepeat,128,350,40,0,150,7,300
+0,bonevrepeat,503,250,40,2,150,7,300
+0,bonevrepeat,503,350,40,2,150,7,300
+5,gasterblaster,1,170,0,170,200,90,0.2,0.5
+0.2,gasterblaster,1,250,0,250,200,90,0.2,0.9
+0.2,gasterblaster,1,410,0,410,200,90,0.2,0.5
+0.2,gasterblaster,1,490,0,490,200,90,0.2,0.5
+0.2,gasterblaster,1,640,270,550,270,180,0.2,0.5
+0,gasterblaster,1,640,370,550,370,180,0.2,0.5
+0.7,gasterblaster,1,640,320,550,320,180,0.2,0.5
+1,gasterblaster,2,320,0,320,200,90,0.5,1
+0.2,gasterblaster,1,640,270,550,270,180,0.2,0.5
+0,gasterblaster,1,0,370,120,370,0,0.2,0.5
+1.5,sansslam,1
+0,sansbody,handdown
+0.2,gasterblaster,1,700,370,550,370,180,0.2,0.5
+0.5,sansslam,2
+0,sansbody,handleft
+0,sansanimation,Idle
+0,gasterblaster,1,150,0,150,200,90,0.2,0.5
+0.3,BoneV,503,255,60,2,225,1
+0,BoneV,503,315,75,2,225,0
+0.4,BoneV,503,255,75,2,225,0
+0,BoneV,503,330,60,2,225,1
+0.4,BoneV,503,255,60,2,225,1
+0,BoneV,503,315,75,2,225,0
+0.4,BoneV,503,255,75,2,225,0
+0,BoneV,503,330,60,2,225,1
+5,SansHead,NoEyes
+0,SansSlam,1,,
+20,SansText,do you really not have    ANYTHING better to do?,,
+0,SansText,you goddamn racist.,,,
+2.5,SansText,i mean,,
+0,SansText,im racist too...,,
+20,SansText,i get it now,,
+0,SansText,you keep waiting until i     say something,,
+0,SansText,like kids meal with extra       kids!,,
+0,SansHead,wink
+0,SansText,well...,,
+0,SansHead,Default
+5,SansHead,Tired1
+5,SansHead,Tired2
+5,SansHead,ClosedEyes
+0,SansText,im going to twerk.,,,
+0,SansText,in the mirror.,,,
+0,SansText,with a saltshaker.,,,
+20,SansText,you know what?,,,
+0,SansHead,blueeye,,
+2,SansText,since...,,
+0,SansText,im the juggernaut...,,
+0,SansText,and the footlong lover,,,
+0,SansText,here's your phase 2!,,,
+0,SansText,also just in case you have         low HP...,,,,,,,
+0.2,SansBody,shrug,,,,,
+0.2,gasterblaster,1,250,0,250,200,90,5.2,0.9
+0.2,gasterblaster,1,410,0,410,200,90,5.2,0.9
+0,SansText,kaboom,,,,,,
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+0.2,BoneVRepeat,128,257,95,0,180,8,120
+0,BoneVRepeat,128,366,20,0,180,8,120
+0,BoneVRepeat,503,257,95,2,180,8,120
+0,BoneVRepeat,503,366,20,2,180,8,120
+
+2.2,EndAttack,,,,,

@@ -1,6 +1,6 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
+0,SansText,Kill you!!,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
@@ -20,21 +20,73 @@
 0,Sound,Ding,,,,,,,
 0.4,Sound,GasterBlaster,1.4,,,,,,
 0.4,SineBones,20,-24,360,25,,,,
+0,BoneStab,1,54,0.16666,1,,,,
 1.1,SansAnimation,,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
 0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
 0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
 0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
 0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
 0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.4,BoneV,128,286,100,0,300,1
+0.4,BoneV,128,286,100,0,300,1
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0.1,BoneStab,3,30,2,2,;
+0.1,BoneV,128,286,100,0,300,1
+0,BoneStab,1,54,0.16666,1,,,,
+0.1,BoneV,128,286,100,0,300,1
+0.1,BoneV,128,286,100,0,300,1
+0.1,BoneV,128,286,100,0,300,1
+0.1,BoneV,128,286,100,0,300,1
+0.1,BoneV,128,286,100,0,300,1
+0.1,BoneV,128,286,100,0,300,1
+0,Sound,Ding,,,,,,,
+0.5,BoneVRepeat,128,366,20,0,120,8,76
+0,BoneVRepeat,513,257,107,2,120,8,76
 3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
-0,EndAttack,,,,,,,,
+0,SansText,get ready to be shat,,,,,,,
+0,SansAnimation,1,,,,,,,
+0,SansHead,Closedeyes,,,,,,,
+0,SansText,It's goonerbait outside,,,,,,,
+0,SansText,fetuses are being thrown...,,,,,,,
+0,SansText,so infants like you...,,,,,,,
+0,BlackScreen,1,304,,,,,,
+0,Sound,Flash,,,,,,,
+0.4,BlackScreen,0,,,,,,,
+0,SansHead,noeyes,,,,,,,
+0,CombatZoneResizeInstant,241,226,406,391,,,,
+0,SansText,Should be yeeted into hell,,,,,,
+0,SansBody,HandRight,
+0.5,SineBones,20,-30,370,60,
+1.5,GasterBlaster,1,0,0,221,200,45,0.5,0.3,
+0,GasterBlaster,1,0,640,426,200,135,0.5,0.3
+0,BoneStab,1,20,0.001,10,
+0,BoneStab,2,20,0.001,10,
+0,BoneStab,3,20,0.001,10,
+0,BoneStab,0,20,0.001,10,
+0.8,GasterBlaster,1,0,0,320,200,90,0.5,0.3,
+0,GasterBlaster,1,0,640,486,340,35,1.5,0.3,
+0.8,GasterBlaster,1,0,0,201,226,45,0.5,0.3,
+0,GasterBlaster,1,0,640,446,226,135,1.5,0.3,
+0.5,GasterBlaster,2,0,640,486,340,180,0.2,0.1,
+0,GasterBlaster,1,0,240,139,306,0,0.4,0.2,,,,
+0,GasterBlaster,1,640,240,499,306,180,1.4,0.2,,,,
+0,GasterBlaster,1,0,0,259,166,90,1.4,0.2,,,,
+0,GasterBlaster,1,640,480,379,446,270,1.4,0.2,,,,
+0,SansText,heh.,,,,,,,
+2.9,EndAttack,,,
